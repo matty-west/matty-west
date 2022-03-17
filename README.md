@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in the effect of technology and innovation on life science markets.
+- 👀 I’m interested in the effect of technology and innovation on life science markets, mainly agricultural biotech.
 - 🌱 I’m currently learning R,linear algebra, and econometrics.
 - 📫 Reach me at mattwest@protonmail.ch
 
