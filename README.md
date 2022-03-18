@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Matt
-- 👀 I’m interested in the effect of technology and innovation on life science markets, mainly agricultural biotech.
-- 🌱 I’m currently learning R, linear algebra, and econometrics.
-- 📫 Reach me at mattwest@protonmail.ch
+- 😎 Hi, my name is Matt. My background is in molecular biology, genetics, and genome engineering. 
+- At work you'll find me in the lab, but I spend my free time pursuing what I consider to be "interesting questions". Right now that means exploring the effect of technology and innovation on life science markets - mainly agricultural biotech.
+- I’m currently learning R, linear algebra, and econometrics.
+- 📫 mattwest@protonmail.ch
 
 <!---
 matty-west/matty-west is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
