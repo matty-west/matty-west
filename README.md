@@ -1,6 +1,10 @@
-- 😎 Hi, my name is Matt, and I'm an agricultural researcher.
-- My day job is in the lab, but I spend my free time learning new skills and exploring offshoots of my research. Right now that means exploring the effect of technology and innovation on life science markets - mainly agricultural biotech. 
-- I’m currently learning R, linear algebra, and econometrics.
+- 😎 Hi, my name is Matt.
+- My day job is in a molecular biology lab, but off the clock I have many other pursuits.
+-   I'm an athlete representing Ritual Strength Gym in Colorado, USA.
+-   Physical performance coach
+-   Tinkerer
+-   Gamer
+-   Social Theorist on the emerging "Decision Economy"
 - 📫 mattwest@protonmail.ch
 
 <!---
