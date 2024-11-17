@@ -1,6 +1,6 @@
 - 😎 Hi, my name is Matt.
 - My day job is in a molecular biology lab, but off the clock I have many other pursuits.
--   I'm an athlete representing Ritual Strength Gym in Colorado, USA.
+-   Athlete representing Ritual Strength Gym in Colorado, USA.
 -   Physical performance coach
 -   Tinkerer
 -   Gamer
