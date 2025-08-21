@@ -5,6 +5,7 @@
 -   Tinkerer
 -   Gamer
 -   Social Theorist on the emerging "Decision Economy"
+-   https://matty-west.github.io/
 - 📫 mattwest@protonmail.ch
 
 <!---
