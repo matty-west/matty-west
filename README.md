@@ -1,8 +1,8 @@
 # Hi, my name is Matt 😎
 https://matty-west.github.io/  <- personal website
 - My day job is in a molecular biology lab, but off the clock I have many other pursuits.
--   Athlete
--   Physical performance coach
+-   Athletics
+-   Ag & Food Value Chain Analysis
 -   Tinkerer
 -   Gamer
 - 📫 mattwest@protonmail.ch
