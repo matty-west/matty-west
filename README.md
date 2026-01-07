@@ -1,11 +1,10 @@
 # Hi, my name is Matt 😎
 https://matty-west.github.io/  <- personal website
 - My day job is in a molecular biology lab, but off the clock I have many other pursuits.
--   Athlete: Ritual Strength Gym (Colorado, USA)
+-   Athlete
 -   Physical performance coach
 -   Tinkerer
 -   Gamer
--   Social Theorist on the emerging "Decision Economy"
 - 📫 mattwest@protonmail.ch
 
 <!---
