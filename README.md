@@ -1,5 +1,5 @@
 # Hi, my name is Matt 
-https://matty-west.github.io/  <- personal website
+shelltoho.me  <- personal website
 - My day job is in a molecular biology lab, but off the clock I have many other pursuits.
 -   Athletics
 -   Ag & Food Value Chain Analysis
