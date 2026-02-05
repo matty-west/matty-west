@@ -1,10 +1,8 @@
 # Hi, my name is Matt 
-shelltoho.me  <- personal website
-- My day job is in a molecular biology lab, but off the clock I have many other pursuits.
--   Athletics
--   Ag & Food Value Chain Analysis
--   Tinkerer
--   Gamer
+
+- My goal is to deepen my understand of the Global Ag and Food System
+-   Biology, Markets, Nutrition, Storage, Processing, Packaging, Marketing
+
 - 📫 mattwest@protonmail.ch
 
 <!---
