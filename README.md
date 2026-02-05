@@ -1,7 +1,6 @@
-# Hi, my name is Matt 
-
-- My goal is to deepen my understand of the Global Ag and Food System
--   Biology, Markets, Nutrition, Storage, Processing, Packaging, Marketing
+## Hi, my name is Matt. 
+My goal is to deepen my understand of the Global Ag and Food System
+- Biology, Markets, Nutrition, Storage, Processing, Packaging, Marketing
 
 - 📫 mattwest@protonmail.ch
 
