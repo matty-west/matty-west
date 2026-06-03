@@ -2,7 +2,7 @@
 My goal is to deepen my understand of the Global Ag and Food System
 - Biology, Markets, Nutrition, Storage, Processing, Packaging, Marketing
 
-- 📫 mattwest@protonmail.ch
+- 📫 matt@shelltoho.me
 
 <!---
 matty-west/matty-west is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
